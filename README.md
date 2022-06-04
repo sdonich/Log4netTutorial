@@ -1,5 +1,5 @@
 # Log4net Tutorial
-This repository is the sample code developed in the log4net training video [Application Logging in C#: The log4net tutorial](http://youtu.be/2lAdQ_QwNww "Application Logging in C#"). The commits in the repository have been tagged with versions that correspond to the sections of the video where that particular code was built. Below you will see what each section covers. test
+This repository is the sample code developed in the log4net training video [Application Logging in C#: The log4net tutorial](http://youtu.be/2lAdQ_QwNww "Application Logging in C#"). The commits in the repository have been tagged with versions that correspond to the sections of the video where that particular code was built. Below you will see what each section covers. test. test another
 
 ## Sections Covered ##
 ### v1.0 - Getting Started ###
